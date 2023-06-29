@@ -9,4 +9,6 @@ The application allows users to create, view, update, and delete customer record
 
 # Demo Video
 
+https://github.com/gallakishore/customer-data-manager-application-springmvc/assets/137784768/0fa0e49d-ec2d-4cc5-bd7a-c6aa7b884031
+
 
